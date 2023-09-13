@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background: transparent;
+}
+
+body {
+  background: #f4f1e2;
+  color: #fdb839;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+:root {
+  --warna-utama: #3498db;
+  --warna-utama-terang: #5fa2dd;
+  --warna-teks: #333;
+  --warna-latar: #fff;
+  --warna-merah: #e74c3c;
+  --warna-hijau: #2ecc71;
+  --warna-kuning: #f1c40f;
+  --warna-oren: #e67e22;
+  --warna-ungu: #9b59b6;
+  --warna-biru-tua: #34495e;
+  --warna-pink: #e91e63;
+  --warna-emas: #ffd700;
+  --warna-terang: #ffffff;
+  --warna-hitam: #000000;
+  --warna-abu: #95a5a6;
+  --warna-jingga: #f39c12;
+  --warna-ijo-muda: #1abc9c;
+  --warna-ijo-tua: #27ae60;
+  --warna-coklat: #8b4513;
+  --warna-merah-muda: #ffc0cb;
+  --warna-violet: #8a2be2;
+  --warna-biru-muda: #00ced1;
+  --warna-biru-laut: #4169e1;
+  --warna-abu-terang: #d3d3d3;
+  --warna-merah-terang: #ff0000;
+  --warna-hijau-terang: #00ff00;
+  --warna-kuning-terang: #ffff00;
+  --warna-oren-terang: #ffa500;
+}
